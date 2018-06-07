@@ -14,7 +14,7 @@ import hotel.Estadia;
 
 public class PetShopTest {
 
-	//private Hotel hotel;
+	private Hotel hotel;
 	
 	@Before
 	public void setUp(){
