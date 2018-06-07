@@ -9,9 +9,12 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
+import hotel.Animal;
+import hotel.Estadia;
+
 public class PetShopTest {
 
-	private Hotel hotel;
+	//private Hotel hotel;
 	
 	@Before
 	public void setUp(){
